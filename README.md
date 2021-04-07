@@ -1,2 +1,2 @@
-# evaluation
-NELIVA Evaluation Lib
+# eval
+NELIVA Eval Lib
